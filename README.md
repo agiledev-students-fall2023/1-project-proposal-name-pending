@@ -51,3 +51,20 @@ When user log in, they will be asked to add personal informations. These persoan
 
 ### Scope
 The app would need a database to store each users login information, and seperate database for each users informations. It will also need a QR code generator(e.g.ZXing Library) for the QR code generation, and then a separate database to store the QR codes.
+
+# Project Proposal 4
+
+### Project Title
+Janet's Plant Repository
+
+### What and Why?
+An app/web page that allows a user to document their plants and look up proper plant care.
+
+### For Whom?
+Mainly for those who like to take care of plants (plant moms) although it may be a good app for people just starting to get into gardening/plants or someone who may not know how to take care of plants and is learning.
+
+### How?
+Needs a login and registration - afterwards should take you to a dashboard where you can look up and add plants to your account. Added plants should have some information that can be included, as well as a place for the user to continue documenting the plant progress.
+
+### Scope
+A database that can store user's registration, and seperate database for any plants that the user will add. Potential UI/UX design for interactive features, as well as features for search and documenting plant information (from another database or creating a new one).
