@@ -1,4 +1,4 @@
-# Project Proposal
+# Project Proposal 1
 
 ## Collaboration
 Jason Zhang (sz3042)
