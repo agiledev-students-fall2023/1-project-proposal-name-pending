@@ -68,3 +68,25 @@ Needs a login and registration - afterwards should take you to a dashboard where
 
 ### Scope
 A database that can store user's registration, and seperate database for any plants that the user will add. Potential UI/UX design for interactive features, as well as features for search and documenting plant information (from another database or creating a new one).
+
+# Project Proposal 5
+
+### Project title
+
+Jason’s subway app
+
+### What and why?
+
+The software system I would like to build this semester would be a NYC subway app that displays the route of every subway line, the status of subway lines, the exact entrance to each subway line with pictures, the time of subway lines. I want to build this system because NYC subway can be confusing and problematic sometimes in terms of delays, direction, and service issues, thus with a subway app, people can know that exact status of a subway as well as the correct subway line they should take. In addition, NYC subway is one of the main methods people get o places in the city thus it is important for it to be correctly regulated.
+
+### For whom?
+
+Everyone who take the subway in NYC.
+
+### How?
+
+The user will input a location they would want to get to and the app would provide the user with the best subway line to take and navigate the user from where they are to the subway station and show them which entrance to go in and get out. The user can also check the status and schedule of all subway lines.
+
+### Scope
+
+The app have a lot of functions and acts both as a map and a information guide thus it would require a lot of data. The app will also need to stay up to date to real time information which also require a lot of data.
