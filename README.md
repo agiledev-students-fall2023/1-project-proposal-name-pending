@@ -1,6 +1,10 @@
 # Project Proposal
 
-## Athena's Music Ranking System
+## Collaboration
+Jason Zhang (sz3042)
+
+### Project title
+Athena's Music Ranking System
 
 ### What and Why?
 I'd like to build a music ranking system that would allow users to rate the album and/or songs within an album. This system would provide a fun way to explore the users' music tastes as well as being able to connect with their friends to show them their thoughts on the music. This would allow for users to take part in the ranking and critiquing of music instead of it being solely restricted to music critics and publications. 
