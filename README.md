@@ -17,3 +17,20 @@ The app will function like Letterboxd or beli; an end-user will search up an alb
 
 ### Scope
 This system will rely on accessing a large, constantly updating music database (Spotify API??) and integrating a multi-leveled rating system. The usage of various, complex data structures will provide a difficult challenge to get all the information displaying correctly across various windows. It will also be a challenge to have an instantaneous updating database of users to follow and unfollow. However, this project could prove to be an enriching experience to learn how to work with open databases and create a usable social netowrking software.
+
+# Project Proposal 2
+
+### Project Title
+Richards TV Project
+
+### What and Why?
+The idea is to create a way for people to recieve recommended TV shows based on what they have watched and what platforms they have access to. This way, people can recieve recomendations for new TV shows that they might enjoy. Later, they can give feeback regarding if the recommended TV show was enjoyable or if it wasnt and based on this they might recieve a new reccomendation.
+
+### For Whom?
+This idea would be primarily for people who enjoy watching a lot of TV shows, especially of a particular genre. While all ages watch TV, it would mainly be used for the 15-30 age range or those who have a lot of access to streaming platforms such as Netflix and Disney etc. 
+
+### Step Through
+User would input a specific tv show that they enjoyed and wanted something similar. They would then recieve a new TV show that is relatively close to what they asked for. After watching the TV show, the user can come back and give either a positive feedback ro a negative feedback based on if they enjoyed it or not and then the system will give a new recomendation.
+
+###Implementation
+First, it would be useful if there was a databse of most of the TV shows. This way, people can do a search and add the tv shows that they have already seen so that we know what to give them a recomendation based on. Next, it would be neccesary to use a api to recieve TV shows that are close to what the user is asking for. We would also need to use a databse to ensure that our reccomendation is not something that has already been seen/given. Unfortunatly, I am not sure if there are any APIS that are useable to recieve the tv recomendations.
