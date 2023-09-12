@@ -32,5 +32,22 @@ This idea would be primarily for people who enjoy watching a lot of TV shows, es
 ### Step Through
 User would input a specific tv show that they enjoyed and wanted something similar. They would then recieve a new TV show that is relatively close to what they asked for. After watching the TV show, the user can come back and give either a positive feedback ro a negative feedback based on if they enjoyed it or not and then the system will give a new recomendation.
 
-###Implementation
+### Implementation
 First, it would be useful if there was a databse of most of the TV shows. This way, people can do a search and add the tv shows that they have already seen so that we know what to give them a recomendation based on. Next, it would be neccesary to use a api to recieve TV shows that are close to what the user is asking for. We would also need to use a databse to ensure that our reccomendation is not something that has already been seen/given. Unfortunatly, I am not sure if there are any APIS that are useable to recieve the tv recomendations.
+
+# Project Proposal 3
+
+### Project title
+Angela's qr code generator
+
+### What and Why?
+The idea is to have an app that each user can login and save all the social media credentials and personal informations into one QR code. When others scan the code, it will show all personal information the owner of the QR code wants to share. This makes networking easier which people can just show their QR codes and can then automatically save all the contact informations.
+
+### For Whom?
+This app can basically be used by anyone who is willing to share their contact informations and social media ID accounts to others.
+
+### How?
+When user log in, they will be asked to add personal informations. These persoanl informations would include stuff like Facebook account, Linkedin, Instagram, phone number, and emails etc. The user will save all these informations in the personal page, and these credentials can be selected to be add into the QR code. Then the user can generate QR code based on the informationthey willing to save into the QR code. 
+
+### Scope
+The app would need a database to store each users login information, and seperate database for each users informations. It will also need a QR code generator(e.g.ZXing Library) for the QR code generation, and then a separate database to store the QR codes.
